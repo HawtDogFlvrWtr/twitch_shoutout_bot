@@ -23,3 +23,6 @@ Once the bot is running, you can use the following commands in chat to add and r
   - This is how long we wait between shoutouts if more than one person you've added comes into your channel at once. This will ensure that everyone gets their fair share of shoutout time with the timer at the top of chat.
 - Shoutout Cooldown Hours
   - This is the number of hours between each users shoutout. The default is 12 hours, which means even if you stop and start your stream, the same people won't get a shoutout until this timer expires.
+
+## Latest Build
+https://github.com/HawtDogFlvrWtr/twitch_shoutout_bot/releases/download/1.0/shoutout_users.zip
