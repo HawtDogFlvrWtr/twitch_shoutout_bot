@@ -14,9 +14,9 @@ This bot will automatically !so people that enter your stream on a cooldown, and
 
 ## Usage
 Once the bot is running, you can use the following commands in chat to add and remove shoutouts
-!addso @username
-!removeso @username
-
+- ```!addso @username```
+- ```!removeso @username```
+  
 ## Other config items
 - Bot Prefix
   - This lets you set what you type before addso and removeso. We suggest you leave this at !. It won't conflict with any other bots, but you might see warnings in the console about unrecognized commands if you have more than one bot
