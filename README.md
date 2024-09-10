@@ -11,7 +11,7 @@ This bot will automatically !so people that enter your stream on a cooldown, and
 - Run shoutout_bot.exe
 - add the "access token" to the "twitch token" section of the window
 - Add your channel name (ex: eldoonnemar)
-- Click "Update Configuration
+- Click "Update Configuration"
 
 ## Usage
 Once the bot is running, you can use the following commands in chat (even if you're offline) to add and remove shoutouts.
