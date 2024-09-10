@@ -13,9 +13,21 @@ This bot will automatically !so people that enter your stream on a cooldown, and
 - Add your channel name (ex: eldoonnemar)
 
 ## Usage
-Once the bot is running, you can use the following commands in chat to add and remove shoutouts
+Once the bot is running, you can use the following commands in chat (even if you're offline) to add and remove shoutouts.
 - ```!addso @username```
 - ```!removeso @username```
+
+## FAQ
+- Will the bot give shoutouts while i'm offline if someone enters chat?
+  - Nope.. it'll wait until you're live to begin giving shoutouts
+- Can I add and remove people from chat while i'm offline?
+  - Yup, just use the commands above and the bot will respond so long as you're running it on your system
+- Can I close the app after stream?
+  - Yes, the bot doesn't need to be running when you're not streaming, but it does need to be running on "a" pc when you're streaming to know when to show out. It contains a database for tracking shoutouts etc
+- Does it do /shoutout @username?
+  - Nope.. all this bot does is look for people you've told it to watch, and if they enter chat and say something, it will just send a ```!so @username```. This means you need to have another bot like moobot waiting to respond to !so messages.
+- Will you eventually do your own shoutouts instead of relying on another bot to do it?
+  - Yeah, i'll be adding that later.
   
 ## Other config items
 - Bot Prefix
